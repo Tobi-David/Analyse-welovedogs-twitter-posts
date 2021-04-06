@@ -1,2 +1,12 @@
 # Analyse welovedogs twitter posts
- wrangle and analyse the tweets of twitter user @welovedogs
+ wrangling and analysing the tweets of twitter user @welovedogs
+# Resources
+- `archived tweets`
+- `images predictions`
+- `tweets information` 
+# Contribution
+ You can contribute if you find any typo or want create another visualization etc.
+## To contribute:
+- Fork the repository
+- Clone the repository to your desktop and make changes 
+- Pull requests
