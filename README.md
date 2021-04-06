@@ -1,5 +1,5 @@
 # Analyse welovedogs twitter posts
- wrangling and analysing the tweets of twitter user @welovedogs
+ wrangling and analysing the tweets of twitter user @dog_rates
 # Resources
 - `archived tweets`
 - `images predictions`
